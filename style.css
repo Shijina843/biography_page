@@ -1,0 +1,26 @@
+body
+{
+    height:100%;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color:hotpink;
+    border-bottom: 10px dotted purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+}
+h3{
+    color:#999999;
+}
+ul{
+    border:5px solid purple;
+    background-color: #eeeeee;
+    padding:27px;
+}
+.mail{
+    text-decoration: none;
+}
+a:hover{
+    color:green;
+}
